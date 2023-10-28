@@ -1,2 +1,1 @@
-# website-104 non-error 
-If err => console.log(err); else ERROR
+# website-104 non-error
