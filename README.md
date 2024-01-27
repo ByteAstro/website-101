@@ -1,2 +1,2 @@
 # website-105
-A demo site for Practice
+A preview site for Practice
